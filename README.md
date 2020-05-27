@@ -1,4 +1,4 @@
-# HTTP Status Code Page
+# HTTP Status Page
 A collection of default error pages for popular browsers.
 
 ### Currently Available
