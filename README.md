@@ -1,2 +1,10 @@
 # HTTP_Error_Page
-A collection of default error pages for popular explorers. 
+A collection of default error pages for popular browsers.
+
+### Currently Available
+- IE6 (English)
+
+### Coming Soon
+- Chrome (English)
+
+Welcome to commit the versions in your language!
